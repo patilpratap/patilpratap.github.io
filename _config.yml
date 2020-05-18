@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Pratap Patil
+tagline:          'Pratap\'s Blog'
+description:      'A blog by Pratap Patil. <a href="https://twitter.com/patilpratap7" target="_blank">@patilpratap7</a>.'
+url:              https://patilpratap.github.io
+baseurl:          /
+
+author:
+  name:           'Pratap Patil'
+  url:            https://twitter.com/patilpratap7
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
